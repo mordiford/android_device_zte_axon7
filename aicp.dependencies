@@ -1,18 +1,22 @@
 [
   {
-    "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "lineage-15.1"
   },
   {
-    "repository": "android_kernel_zte_msm8996",
-    "target_path": "kernel/zte/msm8996"
+    "repository": "LineageOS/android_kernel_zte_msm8996",
+    "target_path": "kernel/zte/msm8996",
+    "branch": "lineage-15.1"
   },
   {
-    "repository": "android_packages_apps_FlipFlap",
-    "target_path": "packages/apps/FlipFlap"
+    "repository": "LineageOS/android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "branch": "lineage-15.1"
   },
   {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-15.1"
   }
 ]
