@@ -182,14 +182,6 @@ PRODUCT_PACKAGES += \
     libdisplayconfig \
     qdcm_calib_data_zteSAM_S6E3HA3_SAM_25601440_5P5Inch.xml
 
-# Doze mode
-PRODUCT_PACKAGES += \
-    ZteDoze
-
-# Flip Cover App
-PRODUCT_PACKAGES += \
-    FlipFlap
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
@@ -264,10 +256,6 @@ PRODUCT_PACKAGES += \
 # Lights
 PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.zte_8996
-
-# LiveDisplay native
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@1.0-service-sdm
 
 # Fingerprint
 PRODUCT_PACKAGES += \
