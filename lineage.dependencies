@@ -8,15 +8,7 @@
     "target_path": "kernel/zte/msm8996"
   },
   {
-    "repository": "android_packages_apps_FlipFlap",
-    "target_path": "packages/apps/FlipFlap"
-  },
-  {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
-  },
-  {
-    "repository": "android_vendor_zte_axon7",
-    "target_path": "vendor/zte/axon7"
   }
 ]

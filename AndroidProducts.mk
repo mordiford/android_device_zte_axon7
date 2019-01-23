@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mk_axon7.mk
+    $(LOCAL_DIR)/lineage_axon7.mk
